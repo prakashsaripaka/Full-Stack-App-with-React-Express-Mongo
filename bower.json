@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "description": "Building a Full-Stack App with React and Express-5",
+  "main": "index.js",
+  "authors": [
+    "prakash saripaka"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
